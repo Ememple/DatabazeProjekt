@@ -63,7 +63,7 @@ Newtonsoft.Json<br>
 
 Program můžete použít pro úpravu databáze
 
-## KontaKt
+## Kontakt
 
 Jan Čihař - [Github](https://github.com/Ememple) - honzacihar@email.cz
 
